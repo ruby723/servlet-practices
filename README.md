@@ -1,5 +1,4 @@
 # servlet-practices
-===================
 
 **DAY 1**
 
