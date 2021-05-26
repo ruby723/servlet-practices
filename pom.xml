@@ -45,5 +45,7 @@
 		<module>helloweb</module>
 		<module>emaillist01</module>
 		<module>guestbook01</module>
+		<module>emaillist02</module>
+		<module>guestbook02</module>
 	</modules>
 </project>
